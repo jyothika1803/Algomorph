@@ -49,3 +49,13 @@ Users can enter their own array values, control animation speed, and visualize s
 
 ## 📂 Project Structure
 
+algomorph/
+│
+├── public/
+├── src/
+├── screenshots/
+│ ├── home.png
+│ └── merge-sort.png
+│
+├── README.md
+└── index.html
