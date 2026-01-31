@@ -1,18 +1,51 @@
-# Algorithm Visualizer React
+# 🔢 AlgoMorph – Sorting Algorithm Visualizer
 
-## 📝 Demo
-[Live Demo](https://jyothika-sorting-algorithm-visualizer.onrender.com/)
+AlgoMorph is an interactive web-based application that helps users understand how different sorting algorithms work through step-by-step visual animations.
 
-A simple React-based Algorithm Visualizer to help understand various algorithms through interactive animations.
+Users can enter their own array values, control animation speed, and visualize sorting in real-time.
 
-## 📌 Description
-Algorithm Visualizer React is a tool that provides visual representations of different algorithms, making it easier to comprehend their working principles. This project is built using React and allows users to see step-by-step execution of sorting, searching, and other algorithms.
+---
 
 ## 🚀 Features
-- Visualize sorting algorithms like Bubble Sort, Merge Sort, Quick Sort, etc.
-- Step-by-step execution with adjustable speed
-- Interactive UI for user engagement
-- Easy-to-use interface
 
-## 📜 License
-This project is licensed under the MIT License.
+- Visualize multiple sorting algorithms
+- User-defined input array
+- Play, Pause, Reset controls
+- Adjustable speed slider
+- Clean and responsive UI
+- Algorithm description & complexity display
+
+---
+
+## 📊 Algorithms Implemented
+
+- Bubble Sort  
+- Selection Sort  
+- Insertion Sort  
+- Merge Sort  
+- Quick Sort  
+
+---
+
+## 🖼 Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+### Merge Sort Visualization
+
+![Merge Sort](screenshots/merge-sort.png)
+
+---
+
+## 🛠 Tech Stack
+
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 📂 Project Structure
+
