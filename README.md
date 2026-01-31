@@ -47,6 +47,12 @@ Users can enter their own array values, control animation speed, and visualize s
 
 ---
 
+## 🔗 Live Demo
+
+https://jyothika-sorting-algorithm-visualizer.onrender.com/
+
+---
+
 ## 📂 Project Structure
 
 algomorph/
